@@ -1,1 +1,1 @@
-finalgrade grade weight = (sum (zipWith(*) grade weight)) `div` sum(weight)
+finalGrade grade weight = (sum (zipWith(*) grade weight)) `div` sum(weight)
